@@ -4,9 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravprajapati23" alt="thematrix09" /></a> </p>
 
 <h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravprajapati23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
